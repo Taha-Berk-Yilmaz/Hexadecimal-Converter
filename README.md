@@ -5,6 +5,7 @@ This program converts hexadecimals to numbers and strings but also converts numb
 # Download
 ```python
 git clone https://github.com/Taha-Berk-Yilmaz/Hexadecimal-Converter.git
+pip install -r requirements.txt
 python hexa_converter.py #Starts the program.
 ```
 # Usage
